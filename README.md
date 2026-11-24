@@ -1,3 +1,7 @@
+## Maintainer engineering reuse
+
+Preserve this project's original documentation, licensing, functionality and provenance. Reusable implementation, tests, integration contracts and workflows may be evaluated for incorporation into the maintainer's active MiniTZ OS core through authorized development channels. Keep private configuration and credentials out of this public repository.
+
 # Secure MCP Tunnel client
 
 `tunnel-client` is the customer-run agent behind Secure MCP Tunnel. It connects
